@@ -26,7 +26,7 @@ equivalent to a 2 dollar price reduction. This suggests social influence has lar
 implications for buyers and sellers.
 
 
-**Can Hate Speech be Banned Online? Evidence from Reddit** *with Lily Shevchenko*
+**Can Hate Speech Be Banned Online? The Effects of Shutting Down Toxic Forums on Reddit** *with Lily Shevchenko*
 * Presented at NICEP 2025, Warwick PhD Conference 2025, HEC PhD Conference 2025, KCL PPE Conference 2025, CODE @ MIT 2025, LSE-Warwick PolEcon PhD 2026
   
 Is deplatforming effective in reducing toxicity on social media? To answer this
