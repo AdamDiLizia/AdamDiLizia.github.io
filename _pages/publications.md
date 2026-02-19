@@ -8,7 +8,7 @@ nav_order: 2
 ---
 ## Working Papers ##
 
-**Social Influence in Online Reviews: Evidence from the Steam Store** ([Latest Version](https://drive.google.com/file/d/1mNdICciRkF9q2o8r6_p1dtpR-VGxMTHE/view)) ([WP link](https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/wp714.2024.pdf))
+**Social Influence in Online Reviews: Evidence from the Steam Store** ([Latest Version](https://drive.google.com/file/d/1mNdICciRkF9q2o8r6_p1dtpR-VGxMTHE/view)) ([Working Paper](https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/wp714.2024.pdf))
   * Winner of the Best Paper award of the Business and Industry Section of the Royal Statistical Society at NIE Conference 2024
   * Presented at CODE @ MIT 2024, RES 2025
 
@@ -26,7 +26,7 @@ equivalent to a 2 dollar price reduction. This suggests social influence has lar
 implications for buyers and sellers.
 
 
-**Can Hate Speech Be Banned Online? The Effects of Shutting Down Toxic Forums on Reddit** *with Lily Shevchenko*
+**Can Hate Speech Be Banned Online? The Effects of Shutting Down Toxic Forums on Reddit** *with Lily Shevchenko* ([Latest Version](https://drive.google.com/file/d/1I7bACt9uA_6ayOM3-_UhMi1aLHRJFmeO/view?usp=sharing)) ([Working Paper](https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/wp790.2026.pdf))
 * Presented at NICEP 2025, Warwick PhD Conference 2025, HEC PhD Conference 2025, KCL PPE Conference 2025, CODE @ MIT 2025, LSE-Warwick PolEcon PhD 2026
   
 Is deplatforming effective in reducing toxicity on social media? To answer this
@@ -46,7 +46,7 @@ engagement, and thus can be aligned with platforms’ incentives.
 
 ## Work in Progress ##
 
-**Atomic Attention on YouTube: ``Brainrot" and Short-form Content**
+**Atomic Attention on YouTube: "Brainrot" and Short-form Content**
 
 Does short form content really harm attention spans? Using the staggered rollout of YouTube Shorts across markets and channels, alongside rich video-level data including transcripts and attention heatmaps from 20 popular US media channels, I find that the introduction of short-form content significantly worsens user attention to their usual videos.
 Skipping at a given video slice increases by approximately 40% relative to the pre-Shorts mean, with across-video comparisons showing that longer videos are worst affected. Within-video analysis reveals that users disproportionately skip toward the beginning of videos, but not the end, suggesting this worseing attention has implications for information acquisition.
