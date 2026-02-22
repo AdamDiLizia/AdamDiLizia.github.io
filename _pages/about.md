@@ -19,7 +19,7 @@ I am a 3rd Year PhD student in Economics in University of Warwick. I am interest
 
 # Working Papers
 
-**Social Influence in Online Reviews: Evidence from the Steam Store** ([Latest Version](https://drive.google.com/file/d/1mNdICciRkF9q2o8r6_p1dtpR-VGxMTHE/view)) ([WP link](https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/wp714.2024.pdf))
+**Social Influence in Online Reviews: Evidence from the Steam Store** ([Latest Version](https://drive.google.com/file/d/1mNdICciRkF9q2o8r6_p1dtpR-VGxMTHE/view)) ([Working Paper](https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/wp714.2024.pdf))
 
 **Can Hate Speech Be Banned Online? The Effects of Shutting Down Toxic Forums on Reddit** With Lily Shevchenko ([Latest Version](https://drive.google.com/file/d/1I7bACt9uA_6ayOM3-_UhMi1aLHRJFmeO/view?usp=sharing)) ([Working Paper](https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/wp790.2026.pdf))
 
