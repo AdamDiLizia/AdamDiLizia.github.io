@@ -46,10 +46,19 @@ engagement, and thus can be aligned with platforms’ incentives.
 
 ## Work in Progress ##
 
-**Atomic Attention on YouTube: "Brainrot" and Short-form Content**
+**Atomic Attention on YouTube: "Brainrot" and Short-form Content** Link Coming Soon!
 
-Does short form content really harm attention spans? Using the staggered rollout of YouTube Shorts across markets and channels, alongside rich video-level data including transcripts and attention heatmaps from 20 popular US media channels, I find that the introduction of short-form content significantly worsens user attention to their usual videos.
-Skipping at a given video slice increases by approximately 40% relative to the pre-Shorts mean, with across-video comparisons showing that longer videos are worst affected. Within-video analysis reveals that users disproportionately skip toward the beginning of videos, but not the end, suggesting this worseing attention has implications for information acquisition.
-The effect is sustained over time and robust to controlling flexibly for views and video content. These findings provide empirical evidence of attention externalities from short-form content exposure.
+Has the rise of short-form content worsened our attention spans? Using the
+staggered rollout of YouTube Shorts across markets and channels, alongside rich
+video-level data including transcripts and attention heatmaps from 14 popular US
+news media channels, I find that the introduction of short-form content significantly
+worsens user attention to their usual videos. Skipping to a given video slice increases
+by approximately 30% relative to the pre-Shorts mean, with across-video comparisons
+showing that longer videos are worst affected. Within-video analysis reveals
+that users disproportionately skip toward the beginning of videos, but not the end,
+suggesting this worsening attention has implications for information acquisition. The
+effect is sustained over time and robust to controlling flexibly for views and video
+content. These findings provide empirical evidence of attention externalities across
+news media from short-form content exposure.
 
 
