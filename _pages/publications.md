@@ -57,8 +57,7 @@ comparisons showing that longer videos are worst affected. Within-video analysis
 reveals that users disproportionately skip toward the beginning of videos, but not
 the end, suggesting this worsening attention has implications for information acqui-
 sition. The effect is sustained over time and robust to controlling flexibly for views
-and video content. Transcript analysis reveals channels attempt to respond to the
-change in attention, but can only do so successfully for their shorter videos. These
+and video content. These
 findings provide empirical evidence of attention externalities across news media from
 short-form content exposure.
 
