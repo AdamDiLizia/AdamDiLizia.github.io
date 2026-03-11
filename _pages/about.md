@@ -25,6 +25,6 @@ I am a 3rd Year PhD student in Economics in University of Warwick. I am interest
 
 # Works in Progress
 
-**Atomic Attention on YouTube: ``Brainrot" and Short-Form Content**
+**Atomic Attention on YouTube: "Brainrot" and Short-Form Content**
 
 
