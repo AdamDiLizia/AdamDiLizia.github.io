@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a 3rd Year PhD student in Economics in University of Warwick. I am interested in the intersection of platform design and applied microeconomics, using large and novel data-sets to understand behaviour online. Please feel free to contact me if you have any questions. I am a [CAGE](https://warwick.ac.uk/fac/soc/economics/research/centres/cage/) Junior fellow.
+I am a 3rd Year PhD student in Economics in University of Warwick. I am interested in the intersection of platform design and applied microeconomics, using large novel data-sets to understand behaviour online. Please feel free to contact me if you have any questions. I am a [CAGE](https://warwick.ac.uk/fac/soc/economics/research/centres/cage/) Junior fellow.
 
 # Working Papers
 
@@ -25,6 +25,6 @@ I am a 3rd Year PhD student in Economics in University of Warwick. I am interest
 
 # Works in Progress
 
-**Atomic Attention on YouTube: "Brainrot" and Short-Form Content**
+**Atomic Attention on YouTube: "Brainrot" and Short-Form Content** _Link Coming Soon_
 
 
