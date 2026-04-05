@@ -47,7 +47,7 @@ engagement, and thus can be aligned with platforms’ incentives.
 ## Work in Progress ##
 
 **Atomic Attention on YouTube: "Brainrot" and Short-form Content** Link Coming Soon!
-*Presented at Warwick PhD Conference 2026 (Upcoming), KCL PPE Conference 2026 (Upcoming)
+* Presented at Warwick PhD Conference 2026 (Upcoming), KCL PPE Conference 2026 (Upcoming)
 
 Has the rise of short-form content worsened our attention spans? Using the
 staggered rollout of YouTube Shorts across markets and channels, alongside rich
