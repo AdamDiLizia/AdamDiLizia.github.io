@@ -26,8 +26,8 @@ equivalent to a 2 dollar price reduction. This suggests social influence has lar
 implications for buyers and sellers.
 
 
-**Can Hate Speech Be Banned Online? The Effects of Shutting Down Toxic Forums on Reddit** *with Lily Shevchenko* ([Latest Version](https://drive.google.com/file/d/1I7bACt9uA_6ayOM3-_UhMi1aLHRJFmeO/view?usp=sharing)) ([Working Paper](https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/wp790.2026.pdf))
-* Presented at NICEP 2025, Warwick PhD Conference 2025, HEC PhD Conference 2025, KCL PPE Conference 2025, CODE @ MIT 2025, LSE-Warwick PolEcon PhD 2026, Doctorissimes 2026 (Upcoming), EAYE 2026 (Upcoming), AYEW Political Economy 2026 (Upcoming), South West Economics PhD Conference 2026 (Upcoming), RES 2026 (Upcoming)
+**Can Hate Speech Be Banned Online? The Effects of Shutting Down Toxic Forums on Reddit** *with Lily Shevchenko* ([Latest Version](https://drive.google.com/file/d/1X0pOf_Ngp2KuHXLiZQcvEg4CgstMWa_B/view?usp=sharing)) ([Working Paper](https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/wp790.2026.pdf))
+* Presented at NICEP 2025, Warwick PhD Conference 2025, HEC PhD Conference 2025, KCL PPE Conference 2025, CODE @ MIT 2025, LSE-Warwick PolEcon PhD 2026, Doctorissimes 2026 (Upcoming), EAYE 2026 (Upcoming), AYEW Political Economy 2026 (Upcoming), South West Economics PhD Conference 2026 (Upcoming), RES 2026 (Upcoming), POLECON UK 2026 (Upcoming)
   
 Is deplatforming effective in reducing toxicity on social media? To answer this
 question we study a policy change on Reddit in June 2020 which led to a simultaneous
@@ -47,6 +47,7 @@ engagement, and thus can be aligned with platforms’ incentives.
 ## Work in Progress ##
 
 **Atomic Attention on YouTube: "Brainrot" and Short-form Content** Link Coming Soon!
+*Presented at Warwick PhD Conference 2026 (Upcoming), KCL PPE Conference 2026 (Upcoming)
 
 Has the rise of short-form content worsened our attention spans? Using the
 staggered rollout of YouTube Shorts across markets and channels, alongside rich
