@@ -27,7 +27,7 @@ implications for buyers and sellers.
 
 
 **Can Hate Speech Be Banned Online? The Effects of Shutting Down Toxic Forums on Reddit** *with Lily Shevchenko* ([Latest Version](https://drive.google.com/file/d/1X0pOf_Ngp2KuHXLiZQcvEg4CgstMWa_B/view?usp=sharing)) ([Working Paper](https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/wp790.2026.pdf))
-* Presented at NICEP 2025, Warwick PhD Conference 2025, HEC PhD Conference 2025, KCL PPE Conference 2025, CODE @ MIT 2025, LSE-Warwick PolEcon PhD 2026, Doctorissimes 2026 (Upcoming), EAYE 2026 (Upcoming), AYEW Political Economy 2026 (Upcoming), South West Economics PhD Conference 2026 (Upcoming), RES 2026 (Upcoming), POLECON UK 2026 (Upcoming), CESifo Workshop on Digital Platforms 2026 (Upcoming)
+* Presented at NICEP 2025, Warwick PhD Conference 2025, HEC PhD Conference 2025, KCL PPE Conference 2025, CODE @ MIT 2025, LSE-Warwick PolEcon PhD 2026, Doctorissimes 2026, AYEW Political Economy 2026,  EAYE 2026 (Upcoming), South West Economics PhD Conference 2026 (Upcoming), POLECON UK 2026 (Upcoming), CESifo Workshop on Digital Platforms 2026 (Upcoming), RES 2026 (Upcoming), 
   
 Is deplatforming effective in reducing toxicity on social media? To answer this
 question we study a policy change on Reddit in June 2020 which led to a simultaneous
@@ -45,11 +45,11 @@ toxic digital spaces can be effective in combating hate speech without lowering 
 engagement, and thus can be aligned with platforms’ incentives.
 
 **Atomic Attention on YouTube: "Brainrot" and Short-form Content** Link Coming Soon!
-* Presented at Warwick PhD Conference 2026 (Upcoming), KCL PPE Conference 2026 (Upcoming)
+* Presented at Kings QPE 2026 (Upcoming), Warwick PhD Conference 2026 (Upcoming), RES 2026 (Upcoming), KCL PPE Conference 2026 (Upcoming)
 
 Has the rise of short-form content worsened our attention spans? Using the
 staggered rollout of YouTube Shorts across markets and channels, alongside rich
-video-level data including transcripts and attention heatmaps from 24 popular US media channels, I find that the introduction of short-form content significantly
+video-level data including transcripts and attention heatmaps from 23 popular US media channels, I find that the introduction of short-form content significantly
 worsens user attention to their usual videos. Skipping to a given video slice increases by approximately 30% relative to the pre-Shorts mean, with across-video
 comparisons showing that longer videos are worst affected. Within-video analysis
 reveals that users disproportionately skip toward the beginning of videos, but not
