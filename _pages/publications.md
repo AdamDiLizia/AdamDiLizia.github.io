@@ -8,26 +8,14 @@ nav_order: 2
 ---
 ## Working Papers ##
 
-**Social Influence in Online Reviews: Evidence from the Steam Store** ([Latest Version](https://drive.google.com/file/d/1mNdICciRkF9q2o8r6_p1dtpR-VGxMTHE/view)) ([Working Paper](https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/wp714.2024.pdf))
-  * Winner of the Best Paper award of the Business and Industry Section of the Royal Statistical Society at NIE Conference 2024
-  * Presented at CODE @ MIT 2024, RES 2025
+**Brainrot? The Effect of Short-Form Content on Long-Form Attention** Link Coming Soon!
+* Presented at Kings QPE 2026, Warwick PhD Conference 2026, RES 2026 (Upcoming), KCL PPE Conference 2026 (Upcoming)
 
-How does social influence affect consumer ratings? Using a dataset from the
-popular Steam gaming platform I investigate how quality judgements depend
-on pre-existing consumer assessments. In 2019, Steam introduced a new review
-system which decreased the exposure of users to previous ratings. Firstly, I
-find that user ratings are dependent on average ratings. The result is not due
-to selection, and is robust to a range of alternative specifications. Secondly,
-the effect is heavily asymmetric: individual reviewers are more negative when
-exposed to a lower average rating, but do not respond to a higher one. I
-rationalize these results with a model of reviewer behavior. Finally, using owner
-data, I estimate a structural model of game choice. A 1% increase in rating is
-equivalent to a 2 dollar price reduction. This suggests social influence has large
-implications for buyers and sellers.
+Has the rise of short-form content worsened our attention spans? I assess this question by studying slice-by-slice attention to news videos on YouTube, the leading global source of video content. Leveraging the staggered rollout of YouTube Shorts across markets and channels, I find that the introduction of short-form content significantly worsens user attention to their usual videos. Skipping to any given section of a video increases by approximately 30%, with across video comparisons showing that longer videos are worst affected. The effect is fast-acting and permanent. On the supply side I find no evidence that channels modify the content of their videos, but instead increasingly produce their own short-form content. Disaggregating this skipping within videos, I find a uniform increase to all slices except for the final 5% of a video. I rationalise these results with a model in which videos are not discrete units but a collection of interdependent slices. Skipping allows users to trade off context for additional video content, with shorts exposure lowering the value of context and leading to content-seeking behaviour. Structural estimation reveals that viewers value context 15% less relative to content in response. Mechanism tests suggest these results are driven by a worsening attention span, rather than substitution or user composition. Overall, short-form content has large impacts on user behaviour.
 
 
 **Can Hate Speech Be Banned Online? The Effects of Shutting Down Toxic Forums on Reddit** *with Lily Shevchenko* ([Latest Version](https://drive.google.com/file/d/1X0pOf_Ngp2KuHXLiZQcvEg4CgstMWa_B/view?usp=sharing)) ([Working Paper](https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/wp790.2026.pdf))
-* Presented at NICEP 2025, Warwick PhD Conference 2025, HEC PhD Conference 2025, KCL PPE Conference 2025, CODE @ MIT 2025, LSE-Warwick PolEcon PhD 2026, Doctorissimes 2026, AYEW Political Economy 2026,  EAYE 2026 (Upcoming), South West Economics PhD Conference 2026 (Upcoming), POLECON UK 2026 (Upcoming), CESifo Workshop on Digital Platforms 2026 (Upcoming), RES 2026 (Upcoming), 
+* Presented at NICEP 2025, Warwick PhD Conference 2025, HEC PhD Conference 2025, KCL PPE Conference 2025, CODE @ MIT 2025, LSE-Warwick PolEcon PhD 2026, Doctorissimes 2026, AYEW Political Economy 2026,  EAYE 2026, South West Economics PhD Conference 2026, POLECON UK 2026, CESifo Workshop on Digital Platforms 2026, RES 2026 (Upcoming), 
   
 Is deplatforming effective in reducing toxicity on social media? To answer this
 question we study a policy change on Reddit in June 2020 which led to a simultaneous
@@ -44,17 +32,20 @@ elsewhere on the platform. Overall, the results suggest that moderation targetin
 toxic digital spaces can be effective in combating hate speech without lowering user
 engagement, and thus can be aligned with platforms’ incentives.
 
-**Atomic Attention on YouTube: "Brainrot" and Short-form Content** Link Coming Soon!
-* Presented at Kings QPE 2026 (Upcoming), Warwick PhD Conference 2026 (Upcoming), RES 2026 (Upcoming), KCL PPE Conference 2026 (Upcoming)
+**Social Influence in Online Reviews: Evidence from the Steam Store** ([Latest Version](https://drive.google.com/file/d/1mNdICciRkF9q2o8r6_p1dtpR-VGxMTHE/view)) ([Working Paper](https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/wp714.2024.pdf))
+  * Winner of the Best Paper award of the Business and Industry Section of the Royal Statistical Society at NIE Conference 2024
+  * Presented at CODE @ MIT 2024, RES 2025
 
-Has the rise of short-form content worsened our attention spans? Using the
-staggered rollout of YouTube Shorts across markets and channels, alongside rich
-video-level data including transcripts and attention heatmaps from 23 popular US media channels, I find that the introduction of short-form content significantly
-worsens user attention to their usual videos. Skipping to a given video slice increases by approximately 30% relative to the pre-Shorts mean, with across-video
-comparisons showing that longer videos are worst affected. Within-video analysis
-reveals that users disproportionately skip toward the beginning of videos, but not
-the end, suggesting this worsening attention has implications for information acquisition. The effect is sustained over time and robust to controlling flexibly for views
-and video content. These
-findings provide empirical evidence of attention externalities across news media from
-short-form content exposure.
+How does social influence affect consumer ratings? Using a dataset from the
+popular Steam gaming platform I investigate how quality judgements depend
+on pre-existing consumer assessments. In 2019, Steam introduced a new review
+system which decreased the exposure of users to previous ratings. Firstly, I
+find that user ratings are dependent on average ratings. The result is not due
+to selection, and is robust to a range of alternative specifications. Secondly,
+the effect is heavily asymmetric: individual reviewers are more negative when
+exposed to a lower average rating, but do not respond to a higher one. I
+rationalize these results with a model of reviewer behavior. Finally, using owner
+data, I estimate a structural model of game choice. A 1% increase in rating is
+equivalent to a 2 dollar price reduction. This suggests social influence has large
+implications for buyers and sellers.
 
