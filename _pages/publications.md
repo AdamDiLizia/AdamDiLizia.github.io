@@ -9,13 +9,14 @@ nav_order: 2
 ## Working Papers ##
 
 **Brainrot? The Effect of Short-Form Content on Long-Form Attention** Link Coming Soon!
-* Presented at Kings QPE 2026, Warwick PhD Conference 2026, RES 2026 (Upcoming), KCL PPE Conference 2026 (Upcoming)
+* Best Poster Winner, RES 2026
+* Presented at Kings QPE 2026, Warwick PhD Conference 2026, RES 2026, KCL PPE Conference 2026
 
 Has the rise of short-form content worsened our attention spans? I assess this question by studying slice-by-slice attention to news videos on YouTube, the leading global source of video content. Leveraging the staggered rollout of YouTube Shorts across markets and channels, I find that the introduction of short-form content significantly worsens user attention to their usual videos. Skipping to any given section of a video increases by approximately 30%, with across video comparisons showing that longer videos are worst affected. The effect is fast-acting and permanent. On the supply side I find no evidence that channels modify the content of their videos, but instead increasingly produce their own short-form content. Disaggregating this skipping within videos, I find a uniform increase to all slices except for the final 5% of a video. I rationalise these results with a model in which videos are not discrete units but a collection of interdependent slices. Skipping allows users to trade off context for additional video content, with shorts exposure lowering the value of context and leading to content-seeking behaviour. Structural estimation reveals that viewers value context 15% less relative to content in response. Mechanism tests suggest these results are driven by a worsening attention span, rather than substitution or user composition. Overall, short-form content has large impacts on user behaviour.
 
 
 **Can Hate Speech Be Banned Online? The Effects of Shutting Down Toxic Forums on Reddit** *with Lily Shevchenko* ([Latest Version](https://drive.google.com/file/d/1X0pOf_Ngp2KuHXLiZQcvEg4CgstMWa_B/view?usp=sharing)) ([Working Paper](https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/wp790.2026.pdf))
-* Presented at NICEP 2025, Warwick PhD Conference 2025, HEC PhD Conference 2025, KCL PPE Conference 2025, CODE @ MIT 2025, LSE-Warwick PolEcon PhD 2026, Doctorissimes 2026, AYEW Political Economy 2026,  EAYE 2026, South West Economics PhD Conference 2026, POLECON UK 2026, CESifo Workshop on Digital Platforms 2026, RES 2026 (Upcoming), 
+* Presented at NICEP 2025, Warwick PhD Conference 2025, HEC PhD Conference 2025, KCL PPE Conference 2025, CODE @ MIT 2025, LSE-Warwick PolEcon PhD 2026, Doctorissimes 2026, AYEW Political Economy 2026,  EAYE 2026, South West Economics PhD Conference 2026, POLECON UK 2026, CESifo Workshop on Digital Platforms 2026, RES 2026, 
   
 Is deplatforming effective in reducing toxicity on social media? To answer this
 question we study a policy change on Reddit in June 2020 which led to a simultaneous
