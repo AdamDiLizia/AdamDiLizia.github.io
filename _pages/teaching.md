@@ -14,10 +14,16 @@ Mean Review: 4.53/5, Median Review: 5/5. [Full Report](/assets/pdf/Ec2262025.pdf
 
 Mean Review: 4.95/5, Median Review: 5/5. [Full Report](/assets/pdf/EC9A3.pdf)
 
+*Awarded Teaching Excellence Prize*
+
 **2022/23:** EC226 Econometrics 1
 
 Spring\
 Mean Review: 4.65/5, Median Review: 5/5. [Full Report](/assets/pdf/Ec2262023Spring.pdf)
 
+*Awarded Teaching Excellence Prize*
+
 Autumn\
 Mean Review: 4.68/5, Median Review: 5/5. [Full Report](/assets/pdf/Ec2262023.pdf)
+
+*Awarded Teaching Excellence Prize*
