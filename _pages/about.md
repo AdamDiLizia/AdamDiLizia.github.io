@@ -24,7 +24,7 @@ You can find my CV Here
 # Job Market Paper
 
 **Brainrot? The Effect of Short-Form Content on Long-Form Attention** _Link Coming Soon_
-  - Winner, Best Poster, RES 2026
+  - Best Poster Winner, RES 2026
 
 
 # Working Papers
