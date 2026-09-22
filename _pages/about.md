@@ -17,7 +17,7 @@ social: false # includes social icons at the bottom of the page
 
 I am a 4th Year PhD student in Economics in University of Warwick. I am interested in the intersection of platform design and applied microeconomics, using large novel data-sets to understand behaviour online. I am a [CAGE](https://warwick.ac.uk/fac/soc/economics/research/centres/cage/) Junior fellow. 
 
-You can find my CV Here
+You can find my CV [Here](https://drive.google.com/file/d/1ssoYiHmzzp5vJO9sdPX3sccdLTuzuDZH/view?usp=sharing)
 
 **I am on the 2026-2027 Job Market**
 
