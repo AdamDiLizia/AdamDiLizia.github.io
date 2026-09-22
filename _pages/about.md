@@ -29,7 +29,7 @@ You can find my CV Here
 
 # Working Papers
 
-**Can Hate Speech Be Banned Online? The Effects of Shutting Down Toxic Forums on Reddit** With Lily Shevchenko ([Latest Version](https://drive.google.com/file/d/1X0pOf_Ngp2KuHXLiZQcvEg4CgstMWa_B/view?usp=sharing))
+**Can Hate Speech Be Banned Online? The Effects of Shutting Down Toxic Forums on Reddit** With Lily Shevchenko ([Latest Version](https://drive.google.com/file/d/1X0pOf_Ngp2KuHXLiZQcvEg4CgstMWa_B/view?usp=sharing)) _New Link Coming Soon_
 
 **Social Influence in Online Reviews: Evidence from the Steam Store** ([Latest Version](https://drive.google.com/file/d/1mNdICciRkF9q2o8r6_p1dtpR-VGxMTHE/view))
 
