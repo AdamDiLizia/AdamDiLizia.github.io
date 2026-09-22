@@ -37,16 +37,8 @@ engagement, and thus can be aligned with platforms’ incentives.
   * Winner of the Best Paper award of the Business and Industry Section of the Royal Statistical Society at NIE Conference 2024
   * Presented at CODE @ MIT 2024, RES 2025
 
-How does social influence affect consumer ratings? Using a dataset from the
-popular Steam gaming platform I investigate how quality judgements depend
-on pre-existing consumer assessments. In 2019, Steam introduced a new review
-system which decreased the exposure of users to previous ratings. Firstly, I
-find that user ratings are dependent on average ratings. The result is not due
-to selection, and is robust to a range of alternative specifications. Secondly,
-the effect is heavily asymmetric: individual reviewers are more negative when
-exposed to a lower average rating, but do not respond to a higher one. I
-rationalize these results with a model of reviewer behavior. Finally, using owner
-data, I price the effect of the policy. A 1% increase in rating is
-equivalent to a 2 dollar price reduction. This suggests social influence has large
-implications for buyers and sellers.
+This paper investigates how pre-existing consumer assessments bias online
+ratings by exploiting a natural experiment on the Steam gaming platform. In
+2019, an update exogenously removed the average rating being shown to incoming reviewers by default. I show that exposure to average ratings significantly
+alters reviewing behavior, driven entirely by compounding negativity. Reviewers exposed to a lower average rating become significantly more negative, but do not respond to a higher rating. Using owner data, I price the policy effect: a one percentage point increase in rating is equivalent to a 2 dollar price reduction.
 
