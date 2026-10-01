@@ -23,7 +23,7 @@ You can find my CV [Here](https://drive.google.com/file/d/1ssoYiHmzzp5vJO9sdPX3s
 
 # Job Market Paper
 
-**Brainrot? The Effect of Short-Form Content on Long-Form Attention** _Link Coming Soon_
+**Brainrot? The Effect of Short-Form Content on Long-Form Attention** ([Latest Version](https://drive.google.com/file/d/1Rv1CBQHSSCc9TG37DW7FJb1irVu_1Q5_/view?usp=sharing))
   - Best Poster Winner, RES 2026
 
 
