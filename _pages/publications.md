@@ -8,7 +8,7 @@ nav_order: 2
 ---
 ## Working Papers ##
 
-**Brainrot? The Effect of Short-Form Content on Long-Form Attention** Link Coming Soon!
+**Brainrot? The Effect of Short-Form Content on Long-Form Attention** ([Latest Version](https://drive.google.com/file/d/1Rv1CBQHSSCc9TG37DW7FJb1irVu_1Q5_/view?usp=sharing))
 * Winner, Best Poster, RES 2026
 * Presented at Kings QPE 2026, Warwick PhD Conference 2026, RES 2026, KCL PPE Conference 2026
 
