@@ -12,17 +12,22 @@ nav_order: 2
 * Winner, Best Poster, RES 2026
 * Presented at Kings QPE 2026, Warwick PhD Conference 2026, RES 2026, KCL PPE Conference 2026
 
-Has the rise of short-form content affected our attention spans? I assess this question by studying slice-by-slice attention to news videos on YouTube, the leading global source of video content. Leveraging the staggered rollout of YouTube Shorts
-across markets and channels, I find that the introduction of short-form content has led to a significant change to online news consumption. Skipping to any given section of a video increases by approximately 40%, with across-video comparisons
-showing that longer, dense videos are worst affected. The effect is fast-acting and
-persistent. On the supply side I find no evidence that channels modify the content of their videos, but instead increasingly produce their own short-form content.
-Disaggregating within videos, I find a uniform increase in skipping across all slices
-except for the final 5%. I rationalise these results with a model in which videos are
-not discrete units but a collection of interdependent slices. Skipping allows users
-to trade off context for additional video content, with Shorts exposure lowering the
-value of context and leading to content-seeking behaviour. Structural estimation
-reveals that viewers value context at least 28% less than content in response. Mechanism tests suggest these results are driven by “brainrot”, rather than substitution
-or user composition.
+Does short-form content impact our attention spans? I study viewing patterns
+for a large set of news channels on YouTube, using attention heatmaps that record
+within-video click data. Leveraging the staggered rollout of YouTube Shorts across
+markets, I show that exposure to short-form content reduces continuous spells of
+attention to videos. Within-video skipping increases immediately and persists at
+about 40% above the pre-Shorts mean, with larger effects for longer videos. In
+turn, I document two important findings. First, the likely mechanism is reduced
+attention span, since I am able to rule out changing user composition and cross-
+video substitution as alternative explanations. This is supported by a model in
+which videos are bundles of interdependent slices where skipping trades off single-
+slice content against multi-slice context. The effect of short-form content then
+enters by lowering the value viewers place on context. Second, I show that news
+viewing patterns on YouTube have changed significantly, with viewers effectively
+reducing the amount of rich, informational context that they consume. Specifically,
+a structural model indicates that the value of context in news videos fell by at least
+a quarter with the introduction of Shorts.
 
 **Can Hate Speech Be Banned Online? The Effects of Shutting Down Toxic Forums on Reddit** *with [Lily Shevchenko](https://lilyshevchenko.github.io/)* ([Latest Version](https://drive.google.com/file/d/1X0pOf_Ngp2KuHXLiZQcvEg4CgstMWa_B/view?usp=sharing)) 
 * Presented at NICEP 2025, Warwick PhD Conference 2025, HEC PhD Conference 2025, KCL PPE Conference 2025, CODE @ MIT 2025, LSE-Warwick PolEcon PhD 2026, Doctorissimes 2026, AYEW Political Economy 2026,  EAYE 2026, South West Economics PhD Conference 2026, POLECON UK 2026, CESifo Workshop on Digital Platforms 2026, RES 2026, 
