@@ -6,7 +6,7 @@ subtitle: <p>University of Warwick</p><p>adam.di-lizia@warwick.ac.uk</p>
 
 profile:
   align: right
-  image: egg.jpeg
+  image: IMG_5520.JPG
   image_circular: false # crops the image to make it circular
   more_info:
 
