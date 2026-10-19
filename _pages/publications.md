@@ -29,26 +29,26 @@ reducing the amount of rich, informational context that they consume. Specifical
 a structural model indicates that the value of context in news videos fell by at least
 a quarter with the introduction of Shorts.
 
-**Can Hate Speech Be Banned Online? The Effects of Shutting Down Toxic Forums on Reddit** *with [Lily Shevchenko](https://lilyshevchenko.github.io/)* ([Latest Version](https://drive.google.com/file/d/1X0pOf_Ngp2KuHXLiZQcvEg4CgstMWa_B/view?usp=sharing)) 
-* Presented at NICEP 2025, Warwick PhD Conference 2025, HEC PhD Conference 2025, KCL PPE Conference 2025, CODE @ MIT 2025, LSE-Warwick PolEcon PhD 2026, Doctorissimes 2026, AYEW Political Economy 2026,  EAYE 2026, South West Economics PhD Conference 2026, POLECON UK 2026, CESifo Workshop on Digital Platforms 2026, RES 2026, 
+**Can Hate Speech Be Banned Online? The Effects of Shutting Down Toxic Forums on Reddit** *with [Lily Shevchenko](https://lilyshevchenko.github.io/)* ([Latest Version](https://drive.google.com/file/d/1TfvvwzmXYLDyKxhdZNs4VlLENZ3H65Ml/view?usp=sharing)) 
+* Presented at NICEP 2025, Warwick PhD Conference 2025, HEC PhD Conference 2025, KCL PPE Conference 2025, CODE @ MIT 2025, LSE-Warwick PolEcon PhD 2026, Doctorissimes 2026, AYEW Political Economy 2026,  EAYE 2026, South West Economics PhD Conference 2026, POLECON UK 2026, CESifo Workshop on Digital Platforms 2026, RES 2026, <br>
+_This paper has been substantially updated since its previous circulation_
   
-Is deplatforming effective in reducing toxicity on social media? To answer this
-question we study a policy change on Reddit in June 2020 which led to a simultaneous
-ban of thousands of forums containing hateful content, but not the users of these
+Is deplatforming effective in reducing levels of hate speech on social media? To
+answer this question we study a policy change on Reddit which led to a simultaneous
+ban of thousands of forums containing hateful content, but not the users of those
 forums. We use data on the near universe of comments left on Reddit to examine
 the impact of the ban on user behaviour in a differences-in-differences design. We
 find that the most active users of banned subreddits comment more after the policy
-change and substitute to new forums in the weeks after the ban. The increase in
-activity persists in the long run, but is not associated with higher toxicity: instead,
-the comments left by affected users outside banned subreddits contain 20% fewer
-instances of hate speech. We do not find evidence that the policy leads to lower
-quality of engagement, negative spillover effects or recreation of banned subreddits
-elsewhere on the platform. Overall, the results suggest that moderation targeting
-toxic digital spaces can be effective in combating hate speech without lowering user
-engagement, and thus can be aligned with platforms’ incentives.
+change and substitute to new forums in the weeks after the ban. The increase in activity persists in the long run, but is not associated with higher levels of hate speech:
+instead, the comments left by affected users outside banned subreddits contain 20%
+fewer instances of slurs. We do not find evidence that the policy leads to lower quality
+of engagement, negative spillover effects or re-creation of banned forums elsewhere
+on the platform. Overall, the results suggest that community-level moderation can
+be effective in combating hate speech without lowering user engagement, and thus
+can be aligned with platforms’ incentives.
 
 **Social Influence in Online Reviews: Evidence from the Steam Store** ([Latest Version](https://drive.google.com/file/d/1mNdICciRkF9q2o8r6_p1dtpR-VGxMTHE/view))
-  * Winner of the Best Paper award of the Business and Industry Section of the Royal Statistical Society at NIE Conference 2024
+  * Winner, Best Paper award of the Business and Industry Section of the Royal Statistical Society, NIE Conference 2024
   * Presented at CODE @ MIT 2024, RES 2025
 
 This paper investigates how pre-existing consumer assessments bias online
