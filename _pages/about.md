@@ -27,7 +27,7 @@ I am a 4th Year PhD student in Economics in University of Warwick. I am interest
 
 # Working Papers
 
-**Can Hate Speech Be Banned Online? The Effects of Shutting Down Toxic Forums on Reddit** With Lily Shevchenko ([Latest Version](https://drive.google.com/file/d/1TfvvwzmXYLDyKxhdZNs4VlLENZ3H65Ml/view?usp=drive_link) <br>
+**Can Hate Speech Be Banned Online? The Effects of Shutting Down Toxic Forums on Reddit** With Lily Shevchenko ([Latest Version](https://drive.google.com/file/d/1TfvvwzmXYLDyKxhdZNs4VlLENZ3H65Ml/view?usp=drive_link)) <br>
 _New Version (Oct 2026)_
 
 **Social Influence in Online Reviews: Evidence from the Steam Store** ([Latest Version](https://drive.google.com/file/d/1mNdICciRkF9q2o8r6_p1dtpR-VGxMTHE/view))
