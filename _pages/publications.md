@@ -8,11 +8,13 @@ nav_order: 2
 ---
 # Working Papers #
 
-### **Brainrot? The Effect of Short-Form Content on Long-Form Attention** ([Latest Version](https://drive.google.com/file/d/1Rv1CBQHSSCc9TG37DW7FJb1irVu_1Q5_/view?usp=sharing))
+ **Brainrot? The Effect of Short-Form Content on Long-Form Attention** ([Latest Version](https://drive.google.com/file/d/1Rv1CBQHSSCc9TG37DW7FJb1irVu_1Q5_/view?usp=sharing))
 * Winner, Best Poster, RES 2026
 * Presented at Kings QPE 2026, Warwick PhD Conference 2026, RES 2026, KCL PPE Conference 2026
 
-Does short-form content impact our attention spans? I study viewing patterns
+<details closed>
+  <summary>Abstract</summary>
+  Does short-form content impact our attention spans? I study viewing patterns
 for a large set of news channels on YouTube, using attention heatmaps that record
 within-video click data. Leveraging the staggered rollout of YouTube Shorts across
 markets, I show that exposure to short-form content reduces continuous spells of
@@ -28,11 +30,14 @@ viewing patterns on YouTube have changed significantly, with viewers effectively
 reducing the amount of rich, informational context that they consume. Specifically,
 a structural model indicates that the value of context in news videos fell by at least
 a quarter with the introduction of Shorts.
+</details>
 
-### **Can Hate Speech Be Banned Online? The Effects of Shutting Down Toxic Forums on Reddit** *with [Lily Shevchenko](https://lilyshevchenko.github.io/)* ([Latest Version](https://drive.google.com/file/d/1TfvvwzmXYLDyKxhdZNs4VlLENZ3H65Ml/view?usp=sharing)) 
+**Can Hate Speech Be Banned Online? The Effects of Shutting Down Toxic Forums on Reddit** *with [Lily Shevchenko](https://lilyshevchenko.github.io/)* ([Latest Version](https://drive.google.com/file/d/1TfvvwzmXYLDyKxhdZNs4VlLENZ3H65Ml/view?usp=sharing)) 
 * Presented at NICEP 2025, Warwick PhD Conference 2025, HEC PhD Conference 2025, KCL PPE Conference 2025, CODE @ MIT 2025, LSE-Warwick PolEcon PhD 2026, Doctorissimes 2026, AYEW Political Economy 2026,  EAYE 2026, South West Economics PhD Conference 2026, POLECON UK 2026, CESifo Workshop on Digital Platforms 2026, RES 2026, <br>
 _This paper has been substantially updated since its previous circulation_
-  
+
+<details closed>
+  <summary>Abstract</summary>
 Is deplatforming effective in reducing levels of hate speech on social media? To
 answer this question we study a policy change on Reddit which led to a simultaneous
 ban of thousands of forums containing hateful content, but not the users of those
@@ -46,13 +51,16 @@ of engagement, negative spillover effects or re-creation of banned forums elsewh
 on the platform. Overall, the results suggest that community-level moderation can
 be effective in combating hate speech without lowering user engagement, and thus
 can be aligned with platforms’ incentives.
+</details>
 
-### **Social Influence in Online Reviews: Evidence from the Steam Store** ([Latest Version](https://drive.google.com/file/d/1mNdICciRkF9q2o8r6_p1dtpR-VGxMTHE/view))
+**Social Influence in Online Reviews: Evidence from the Steam Store** ([Latest Version](https://drive.google.com/file/d/1mNdICciRkF9q2o8r6_p1dtpR-VGxMTHE/view))
   * Winner, Best Paper award of the Business and Industry Section of the Royal Statistical Society, NIE Conference 2024
   * Presented at CODE @ MIT 2024, RES 2025
 
+  <details closed>
+  <summary>Abstract</summary>
 This paper investigates how pre-existing consumer assessments bias online
 ratings by exploiting a natural experiment on the Steam gaming platform. In
 2019, an update exogenously removed the average rating being shown to incoming reviewers by default. I show that exposure to average ratings significantly
 alters reviewing behavior, driven entirely by compounding negativity. Reviewers exposed to a lower average rating become significantly more negative, but do not respond to a higher rating. Using owner data, I price the policy effect: a one percentage point increase in rating is equivalent to a 2 dollar price reduction.
-
+</details>
