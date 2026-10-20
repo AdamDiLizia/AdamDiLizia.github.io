@@ -6,9 +6,9 @@ description:
 nav: true
 nav_order: 2
 ---
-## Working Papers ##
+# Working Papers #
 
-**Brainrot? The Effect of Short-Form Content on Long-Form Attention** ([Latest Version](https://drive.google.com/file/d/1Rv1CBQHSSCc9TG37DW7FJb1irVu_1Q5_/view?usp=sharing))
+### **Brainrot? The Effect of Short-Form Content on Long-Form Attention** ([Latest Version](https://drive.google.com/file/d/1Rv1CBQHSSCc9TG37DW7FJb1irVu_1Q5_/view?usp=sharing))
 * Winner, Best Poster, RES 2026
 * Presented at Kings QPE 2026, Warwick PhD Conference 2026, RES 2026, KCL PPE Conference 2026
 
@@ -29,7 +29,7 @@ reducing the amount of rich, informational context that they consume. Specifical
 a structural model indicates that the value of context in news videos fell by at least
 a quarter with the introduction of Shorts.
 
-**Can Hate Speech Be Banned Online? The Effects of Shutting Down Toxic Forums on Reddit** *with [Lily Shevchenko](https://lilyshevchenko.github.io/)* ([Latest Version](https://drive.google.com/file/d/1TfvvwzmXYLDyKxhdZNs4VlLENZ3H65Ml/view?usp=sharing)) 
+### **Can Hate Speech Be Banned Online? The Effects of Shutting Down Toxic Forums on Reddit** *with [Lily Shevchenko](https://lilyshevchenko.github.io/)* ([Latest Version](https://drive.google.com/file/d/1TfvvwzmXYLDyKxhdZNs4VlLENZ3H65Ml/view?usp=sharing)) 
 * Presented at NICEP 2025, Warwick PhD Conference 2025, HEC PhD Conference 2025, KCL PPE Conference 2025, CODE @ MIT 2025, LSE-Warwick PolEcon PhD 2026, Doctorissimes 2026, AYEW Political Economy 2026,  EAYE 2026, South West Economics PhD Conference 2026, POLECON UK 2026, CESifo Workshop on Digital Platforms 2026, RES 2026, <br>
 _This paper has been substantially updated since its previous circulation_
   
@@ -47,7 +47,7 @@ on the platform. Overall, the results suggest that community-level moderation ca
 be effective in combating hate speech without lowering user engagement, and thus
 can be aligned with platforms’ incentives.
 
-**Social Influence in Online Reviews: Evidence from the Steam Store** ([Latest Version](https://drive.google.com/file/d/1mNdICciRkF9q2o8r6_p1dtpR-VGxMTHE/view))
+### **Social Influence in Online Reviews: Evidence from the Steam Store** ([Latest Version](https://drive.google.com/file/d/1mNdICciRkF9q2o8r6_p1dtpR-VGxMTHE/view))
   * Winner, Best Paper award of the Business and Industry Section of the Royal Statistical Society, NIE Conference 2024
   * Presented at CODE @ MIT 2024, RES 2025
 
