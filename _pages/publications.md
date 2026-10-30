@@ -71,7 +71,7 @@ alters reviewing behavior, driven entirely by compounding negativity. Reviewers 
 
 # Work in Progress #
 
-**The Evolution of Social Media** *with [Mirko Draca](https://profiles.warwick.ac.uk/ecslah-mirko-draca)and with [Lily Shevchenko](https://lilyshevchenko.github.io/)*
+**The Evolution of Social Media** *with [Mirko Draca](https://profiles.warwick.ac.uk/ecslah-mirko-draca) and with [Lily Shevchenko](https://lilyshevchenko.github.io/)*
 <p></p>
 
 **Restricting Short-Form Content and the Reallocation of Attention**
