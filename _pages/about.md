@@ -49,8 +49,32 @@ a quarter with the introduction of Shorts.
 **Can Hate Speech Be Banned Online? The Effects of Shutting Down Toxic Forums on Reddit** With Lily Shevchenko ([Latest Version](https://drive.google.com/file/d/1TfvvwzmXYLDyKxhdZNs4VlLENZ3H65Ml/view?usp=drive_link)) <br>
 _New Version (Oct 2026)_
 
+<details closed>
+  <summary>Abstract</summary>
+Is deplatforming effective in reducing levels of hate speech on social media? To
+answer this question we study a policy change on Reddit which led to a simultaneous
+ban of thousands of forums containing hateful content, but not the users of those
+forums. We use data on the near universe of comments left on Reddit to examine
+the impact of the ban on user behaviour in a differences-in-differences design. We
+find that the most active users of banned subreddits comment more after the policy
+change and substitute to new forums in the weeks after the ban. The increase in activity persists in the long run, but is not associated with higher levels of hate speech:
+instead, the comments left by affected users outside banned subreddits contain 20%
+fewer instances of slurs. We do not find evidence that the policy leads to lower quality
+of engagement, negative spillover effects or re-creation of banned forums elsewhere
+on the platform. Overall, the results suggest that community-level moderation can
+be effective in combating hate speech without lowering user engagement, and thus
+can be aligned with platforms’ incentives.
+</details>
+
+
 **Social Influence in Online Reviews: Evidence from the Steam Store** ([Latest Version](https://drive.google.com/file/d/1mNdICciRkF9q2o8r6_p1dtpR-VGxMTHE/view))
 
-
+<details closed>
+  <summary>Abstract</summary>
+This paper investigates how pre-existing consumer assessments bias online
+ratings by exploiting a natural experiment on the Steam gaming platform. In
+2019, an update exogenously removed the average rating being shown to incoming reviewers by default. I show that exposure to average ratings significantly
+alters reviewing behavior, driven entirely by compounding negativity. Reviewers exposed to a lower average rating become significantly more negative, but do not respond to a higher rating. Using owner data, I price the policy effect: a one percentage point increase in rating is equivalent to a 2 dollar price reduction.
+</details>
 
 
