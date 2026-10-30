@@ -68,3 +68,12 @@ ratings by exploiting a natural experiment on the Steam gaming platform. In
 2019, an update exogenously removed the average rating being shown to incoming reviewers by default. I show that exposure to average ratings significantly
 alters reviewing behavior, driven entirely by compounding negativity. Reviewers exposed to a lower average rating become significantly more negative, but do not respond to a higher rating. Using owner data, I price the policy effect: a one percentage point increase in rating is equivalent to a 2 dollar price reduction.
 </details>
+
+# Work in Progress #
+
+**The Evolution of Social Media** *with [Mirko Draca](https://profiles.warwick.ac.uk/ecslah-mirko-draca)and with [Lily Shevchenko](https://lilyshevchenko.github.io/)*
+<p></p>
+
+**Restricting Short-Form Content and the Reallocation of Attention**
+
+
