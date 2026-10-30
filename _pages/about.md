@@ -23,7 +23,7 @@ I am a 4th Year PhD student in Economics in University of Warwick. I am interest
 
 **Brainrot? The Effect of Short-Form Content on Long-Form Attention** ([Latest Version](https://drive.google.com/file/d/1Rv1CBQHSSCc9TG37DW7FJb1irVu_1Q5_/view?usp=sharing))
   - Best Poster Winner, RES 2026
-<details closed>
+<details open>
   <summary>Abstract</summary>
   Does short-form content impact our attention spans? I study viewing patterns
 for a large set of news channels on YouTube, using attention heatmaps that record
@@ -66,6 +66,7 @@ be effective in combating hate speech without lowering user engagement, and thus
 can be aligned with platforms’ incentives.
 </details>
 
+<p> </p>
 
 **Social Influence in Online Reviews: Evidence from the Steam Store** ([Latest Version](https://drive.google.com/file/d/1mNdICciRkF9q2o8r6_p1dtpR-VGxMTHE/view))
 
