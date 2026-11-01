@@ -69,6 +69,9 @@ ratings by exploiting a natural experiment on the Steam gaming platform. In
 alters reviewing behavior, driven entirely by compounding negativity. Reviewers exposed to a lower average rating become significantly more negative, but do not respond to a higher rating. Using owner data, I price the policy effect: a one percentage point increase in rating is equivalent to a 2 dollar price reduction.
 </details>
 
+<p></p>
+
+
 # Work in Progress #
 
 **The Evolution of Social Media** *with [Mirko Draca](https://profiles.warwick.ac.uk/ecslah-mirko-draca) and with [Lily Shevchenko](https://lilyshevchenko.github.io/)*
